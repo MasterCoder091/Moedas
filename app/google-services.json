@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696711430051",
+    "firebase_url": "https://moedas-7c52f.firebaseio.com",
+    "project_id": "moedas-7c52f",
+    "storage_bucket": "moedas-7c52f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696711430051:android:3384415d62d267b0",
+        "android_client_info": {
+          "package_name": "www.moedasg3.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696711430051-8vel7b1ub8qi4fudhbucrlai6n6vfvbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.moedasg3.com.br",
+            "certificate_hash": "8b9103e1fd92230aa2ec210b12344bd9f6f6a27c"
+          }
+        },
+        {
+          "client_id": "696711430051-s3b4l97g6lokdp4eq1td4k4kkpecpp2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArg-QK6RgbngS6kyxmx75pW0GVQtA6ux0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696711430051-s3b4l97g6lokdp4eq1td4k4kkpecpp2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
